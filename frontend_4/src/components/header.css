@@ -1,0 +1,31 @@
+.container {
+    background-color: #f2f2f2;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .header {
+    text-align: center;
+  }
+  
+  .heading {
+    margin-bottom: 20px;
+  }
+  
+  .heading h1 {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+  }
+  
+  .heading span {
+    color: #007bff;
+  }
+  
+  .heading p {
+    font-size: 14px;
+    color: #666;
+  }
+  
